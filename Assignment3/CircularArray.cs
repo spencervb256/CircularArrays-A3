@@ -62,6 +62,14 @@ namespace Assignment3
                 count--;
             }
         }
+        public void PrintAll()
+        {
+            //print off all the elements in the array
+        }
+        public void DeleteAll()
+        {
+            //Delete all the elements in the array
+        }
 
         // Just returns the front element O(1)
         public T GetFront()
